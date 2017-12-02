@@ -142,8 +142,9 @@ class LearningAgent(Agent):
         ###########
         # When learning, implement the value iteration update rule
         #   Use only the learning rate 'alpha' (do not use the discount factor 'gamma')
-        current_value = self.Q[state][action]
+        
         if self.learning:
+            current_value = self.Q[state][action]
             self.Q[state][action] = (1-self.alpha)*current_value + self.alpha*reward
         return
 
