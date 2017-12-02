@@ -4,6 +4,10 @@
 [image2]: ./images/vgg16_model.png "VGG-16 Model Keras Layers"
 [image3]: ./images/vgg16_model_draw.png "VGG16 Model Figure"
 
+## Project Overview
+ Data and pretrained models are not uploaded to Github, download it!
+ Data and pretrained models are not uploaded to Github, download it!
+ Data and pretrained models are not uploaded to Github, download it!
 
 ## Project Overview
 
