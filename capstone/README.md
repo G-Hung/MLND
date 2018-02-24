@@ -12,6 +12,17 @@ https://storage.googleapis.com/kaggle_ghung/tensorflow_audio/udacity/audio_test.
 https://storage.googleapis.com/kaggle_ghung/tensorflow_audio/udacity/audio_train.zip
 https://storage.googleapis.com/kaggle_ghung/tensorflow_audio/udacity/audio_valid.zip
 
+Suggested folder structure:
+
+root -- data     -- train
+    |            -- valid
+    |            -- test
+     -- notebook -- data-exploration.ipython
+    |            -- model-exploration-revised.ipython
+     -- model
+    |
+     -- result
+
 
 Package:
 Needed packages are listed in ipython notebook import sessions
